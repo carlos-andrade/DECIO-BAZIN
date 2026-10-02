@@ -5,7 +5,7 @@ tipo_documento: EVIDÊNCIA
 fase: FASE 00
 titulo: EVIDÊNCIAS DOCUMENTAIS PRELIMINARES
 status: EM INVESTIGAÇÃO
-versao: 1.2
+versao: 1.3
 data_criacao: 2026-10-02
 data_atualizacao: 2026-10-02
 origem: EVIDÊNCIA
@@ -190,3 +190,51 @@ A FASE 00 somente poderá ser considerada concluída quando:
 - a conclusão factual estiver preparada para transformação em **CARTA**.
 
 **Cadeia obrigatória:** PROMPT → FASE → EVIDÊNCIAS → CARTA → LAYOUT ÚNICO → CÓDIGO.
+
+
+## 4C. Investigação dirigida — identificação da primeira corretora
+
+Foi realizada busca dirigida por combinações do nome de Décio Bazin com os termos **corretora**, **Rua XV de Novembro**, **operador**, **Bolsa de Valores de São Paulo**, **O Estado de S. Paulo** e anos específicos do início da década de 1960.
+
+### Resultado
+
+Até o presente levantamento, **não foi localizada fonte independente confiável que identifique nominalmente a corretora em que Bazin trabalhava no começo da década de 1960**.
+
+As buscas continuam retornando principalmente reproduções do próprio livro e fontes secundárias que repetem a formulação de que Bazin trabalhou como operador em uma corretora no início dos anos 1960. Essas fontes não acrescentam o nome da empresa.
+
+### Evidência adicional relevante
+
+A própria obra informa, em seu prefácio, que durante a década de 1980 Bazin trabalhou como redator e articulista sobre assuntos da Bolsa na *Gazeta Mercantil* e na revista *Balanço Financeiro*. Isso ajuda a separar documentalmente a fase posterior de jornalismo econômico da fase inicial de operação de pregão, mas **não identifica a corretora dos anos 1960**.
+
+A obra também contém referências autobiográficas a serviço militar anterior e a atividades posteriores no jornalismo, mas essas informações ainda não foram suficientes para estabelecer uma cadeia cronológica completa entre formação, serviço militar, corretora e imprensa.
+
+### Conclusão operacional
+
+A hipótese **“identificar a primeira corretora” permanece aberta**. Não será preenchido o nome de uma corretora por inferência, associação comercial ou repetição de fonte secundária.
+
+**Estado:** pendente de evidência documental específica.
+
+## 4D. Controle contra anacronismo
+
+A pesquisa atual não autoriza transformar:
+
+- “começo da década de 1960” em **1960**;
+- “corretora na Rua XV de Novembro” em uma empresa específica;
+- “operador de pregão” em “investidor” na mesma data;
+- atuação posterior na *Gazeta Mercantil* em evidência sobre a entrada no mercado.
+
+Essas distinções permanecem obrigatórias para o fechamento da FASE 00.
+
+## 9. Atualização do próximo passo
+
+A próxima busca deverá priorizar **fontes primárias ou contemporâneas dos anos 1950–1960**, especialmente:
+
+1. hemeroteca e jornais paulistas;
+2. arquivo do *O Estado de S. Paulo*;
+3. publicações e anuários da Bolsa de Valores de São Paulo;
+4. listas, anuários ou registros históricos de corretoras;
+5. arquivos da imprensa financeira;
+6. registros biográficos institucionais que indiquem o primeiro empregador.
+
+O objetivo continua sendo obter um documento que permita afirmar, com rastreabilidade, **quem era a corretora, quando ocorreu o vínculo e em que função Bazin atuava**.
+
