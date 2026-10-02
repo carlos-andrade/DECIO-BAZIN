@@ -5,7 +5,7 @@ tipo_documento: EVIDÊNCIA
 fase: FASE 00
 titulo: EVIDÊNCIAS DOCUMENTAIS PRELIMINARES
 status: EM INVESTIGAÇÃO
-versao: 1.9
+versao: 2.0
 data_criacao: 2026-10-02
 data_atualizacao: 2026-10-02
 origem: EVIDÊNCIA
@@ -686,3 +686,51 @@ Isso não identifica, por si só, a primeira corretora.
 - Investigação documental: **CONTINUA**.
 
 **Próximo alvo documental:** acervo primário institucional/MUB3 e Hemeroteca em consultas mais específicas por nomes de Corretores Oficiais, escritórios e listas profissionais do período, evitando ampliar a hipótese sem evidência.
+
+
+## 4T. Rodada complementar — nomes institucionais e controle de falso positivo
+
+Foi realizada nova busca nominal combinando **Décio Bazin**, **Delacir Mazzini** e os agentes institucionais identificados nas rodadas anteriores — **Egberto Campos Fraga, Túlio Misasi, João Osório de Oliveira Germano e João Roberto Lerosa** — com os termos Bolsa, corretor, preposto, corretora e o período de 1959–1965.
+
+### Resultado
+
+A rodada não localizou documentação contemporânea ou institucional confiável que estabeleça vínculo nominal entre Bazin/Delacir e qualquer um desses agentes.
+
+Os resultados recuperados que não pertencem ao universo documental da Bolsa ou não apresentam contexto profissional suficiente foram descartados. Não há base para transformar coincidência temporal, geográfica ou nominal em identificação de empregador.
+
+### Controle documental
+
+O resultado reforça quatro separações obrigatórias:
+
+- **1960** permanece como data explicitamente declarada por Bazin para sua “militância na Bolsa”, não como data documental de contratação;
+- **começo da década de 1960** permanece como período autobiograficamente descrito para o trabalho em corretora;
+- **Rua XV de Novembro** permanece como localização declarada da corretora, sem identificação da empresa;
+- nomes de Corretores Oficiais/prepostos documentados para o período permanecem **contexto institucional**, não vínculo profissional de Bazin.
+
+A busca também não produziu evidência nova suficiente para validar a pista secundária de **Banco do Brasil** como etapa profissional anterior, embora essa linha continue aberta.
+
+### Resultado do gate 4T
+
+| Item | Estado |
+|---|---|
+| Atuação/militância na Bolsa desde 1960 | **MANTIDA — declaração autobiográfica** |
+| Trabalho em corretora no começo dos anos 1960 | **MANTIDO — evidência autobiográfica forte** |
+| Rua XV de Novembro | **MANTIDA — localização autobiográfica** |
+| Primeira corretora | **NÃO IDENTIFICADA** |
+| Primeiro superior/Corretor Oficial | **NÃO IDENTIFICADO** |
+| Banco do Brasil | **PISTA SECUNDÁRIA / PENDENTE** |
+| Nova ligação nominal encontrada | **NÃO** |
+| FASE 00 | **INVESTIGAÇÃO CONTINUA** |
+
+### Próximo alvo documental
+
+A investigação permanece concentrada em fontes primárias ou institucionais:
+
+1. anuários e listas profissionais da Bolsa paulista;
+2. documentação do MUB3 sobre Corretores Oficiais, prepostos e escritórios;
+3. Hemeroteca Digital Brasileira, com buscas por nomes e anúncios profissionais;
+4. arquivo histórico do Banco do Brasil para validar ou rejeitar a pista bancária;
+5. registros contemporâneos de O Estado de S. Paulo e imprensa financeira.
+
+**Regra:** nenhum nome de corretora será preenchido por inferência. A primeira corretora somente será promovida a fato quando existir vínculo documental rastreável.
+
