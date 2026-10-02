@@ -484,3 +484,36 @@ A pesquisa deve agora avançar para fontes primárias ou institucionais mais pr�
 4. Jornais O Estado de S. Paulo e Gazeta Mercantil: buscar a assinatura/nome civil de Bazin em períodos anteriores ao reconhecimento como analista.
 
 Estado: GATE EXTERNO EXECUTADO — primeira corretora continua pendente; Banco do Brasil permanece em validação.
+
+
+## 4O. Rodada documental 1958–1965 — controle de nomes e fontes
+
+Foi executada nova rodada de busca nominal externa, concentrada em **Delacir Mazzini**, **Décio Bazin**, os anos **1959–1965** e combinações com Banco do Brasil, corretora, Bolsa e Rua XV de Novembro.
+
+### Resultado
+
+A rodada **não localizou registro contemporâneo confiável que identifique a primeira corretora de Bazin**. Os resultados relevantes continuam sendo predominantemente reproduções da autobiografia ou registros muito posteriores.
+
+A busca nominal por **Delacir Mazzini** encontrou, entre os resultados indexados, referência parlamentar de 1957 contendo o nome, mas o documento localizado não apresenta contexto profissional suficiente para ligá-lo a Banco do Brasil, corretora ou Bolsa. Portanto, **não foi promovido a evidência biográfica**.
+
+Também foram localizados registros judiciais posteriores envolvendo Delacir Mazzini e Banco do Brasil. Esses registros demonstram a existência de uma relação jurídica posterior, mas **não estabelecem, por si só, a data de admissão, cargo, agência ou sequência profissional anterior**. Permanecem fora da cronologia consolidada.
+
+A evidência autobiográfica continua sendo a mais específica: Bazin afirma que **“militava na Bolsa desde 1960”** e, no mesmo capítulo, descreve trabalho em uma corretora da Rua XV de Novembro no começo da década de 1960. Essa combinação é consistente com a cronologia 1960–1971, mas ainda não identifica nominalmente o empregador.
+
+### Controle de falso positivo
+
+Não serão utilizados como identificação da primeira corretora:
+- empresas localizadas na Rua XV de Novembro apenas por coincidência de endereço;
+- corretoras mencionadas em episódios posteriores da obra;
+- registros profissionais de Delacir Mazzini posteriores aos anos 1960;
+- inferências derivadas exclusivamente da estrutura regulatória posterior a 1965–1966.
+
+### Resultado do gate
+
+- **Atuação/militância na Bolsa desde 1960:** mantida como declaração autobiográfica explícita.
+- **Trabalho em corretora no começo da década de 1960:** mantido como narrativa autobiográfica forte, ainda reproduzida por terceiros.
+- **Primeira corretora:** não identificada.
+- **Banco do Brasil:** pista secundária, sem cronologia profissional validada.
+- **Documentação contemporânea 1958–1965:** ainda insuficiente para fechar a identidade da primeira corretora.
+
+**Estado:** INVESTIGAÇÃO CONTINUA — próximo passo: acervos institucionais da Bolsa/MUB3 e imprensa paulista contemporânea, com prioridade para listas de operadores, anuários e anúncios profissionais.
