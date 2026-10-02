@@ -5,7 +5,7 @@ tipo_documento: EVIDÊNCIA
 fase: FASE 00
 titulo: EVIDÊNCIAS DOCUMENTAIS PRELIMINARES
 status: EM INVESTIGAÇÃO
-versao: 1.5
+versao: 1.6
 data_criacao: 2026-10-02
 data_atualizacao: 2026-10-02
 origem: EVIDÊNCIA
@@ -517,3 +517,34 @@ Não serão utilizados como identificação da primeira corretora:
 - **Documentação contemporânea 1958–1965:** ainda insuficiente para fechar a identidade da primeira corretora.
 
 **Estado:** INVESTIGAÇÃO CONTINUA — próximo passo: acervos institucionais da Bolsa/MUB3 e imprensa paulista contemporânea, com prioridade para listas de operadores, anuários e anúncios profissionais.
+
+
+## 4P. Rodada Bolsa/MUB3 — controle de anacronismo institucional e nova pista cronológica
+
+A investigação foi ampliada para fontes históricas sobre a organização da Bolsa paulista antes e durante a reforma de 1965–1966.
+
+### Achado institucional
+
+A ANCORD registra que, em 1964, o CMN passou a disciplinar as Bolsas e os corretores de fundos públicos; em 1965, a Lei do Mercado de Capitais alterou a estrutura institucional da Bolsa de São Paulo e a regulação das corretoras. A documentação histórica consultada também registra a transição da figura do **Corretor Oficial** para as **Sociedades Corretoras** no processo de 1965–1966. citeturn2search0turn2search10
+
+Esse achado reforça uma regra de controle: a expressão retrospectiva **“corretora”**, usada por Bazin ao narrar os primeiros anos da década de 1960, não deve ser automaticamente convertida em uma pessoa jurídica ou instituição com a configuração regulatória posterior a 1965–1966.
+
+### Nova pista: primeira experiência como investidor
+
+Na obra, Bazin descreve como sua **“primeira lição severa” como investidor do mercado acionário** a compra, no balcão, de lotes de ações da empresa comercial Cássio Muniz. A própria narrativa informa que a empresa funcionava na Praça da República e que a operação ocorreu por intermédio de um corretor. O mesmo trecho é seguido pela descrição dos três booms em que Bazin afirma ter trabalhado como operador de pregão, em 1966, 1969 e 1971. citeturn5search2turn5search1
+
+Fontes contemporâneas confirmam a existência da **Cássio Muniz S/A — Importação e Comércio**, com sede na Praça da República, em 1969, mas isso não identifica o corretor que vendeu as ações a Bazin nem sua primeira corretora de trabalho. citeturn6search34
+
+### Controle de inferência
+
+A sequência não permite afirmar que a compra de Cássio Muniz ocorreu em 1960, nem que a empresa ou o corretor estejam ligados ao primeiro emprego de Bazin. A pista é registrada somente como **marco da experiência de investidor**, sem promoção para identificação da primeira corretora.
+
+### Resultado do gate — rodada Bolsa/MUB3
+
+- **Estrutura pré-1965:** confirmada a necessidade de distinguir Corretor Oficial de Sociedade Corretora.
+- **Operador de pregão:** a terminologia e função devem ser interpretadas dentro da transição institucional; não se presume a configuração posterior.
+- **Cássio Muniz:** nova pista documental da experiência inicial de investidor, sem ligação comprovada com o empregador de Bazin.
+- **Primeira corretora:** continua **NÃO IDENTIFICADA**.
+- **Banco do Brasil:** continua **PISTA SECUNDÁRIA / PENDENTE**.
+
+**Estado:** INVESTIGAÇÃO CONTINUA. Próximo alvo documental: registros nominais de Corretores Oficiais/prepostos e documentação institucional da Bolsa paulista entre 1959 e 1966, cruzados com o nome civil Delacir Mazzini e com a Rua XV de Novembro.
