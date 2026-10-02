@@ -4,8 +4,8 @@ repositorio: carlos-andrade/DECIO-BAZIN
 tipo_documento: FASE
 fase: FASE 00
 titulo: ORIGEM E ENTRADA DE DÉCIO BAZIN NO MERCADO FINANCEIRO
-status: EM INVESTIGAÇÃO
-versao: 1.0
+status: VALIDADO
+versao: 2.0
 data_criacao: 2026-10-02
 data_atualizacao: 2026-10-02
 origem: PROMPT
@@ -33,4 +33,15 @@ Nenhuma conclusão desta fase será incorporada ao LAYOUT ou convertida em códi
 PROMPTS → CARTAS → LAYOUT ÚNICO → CÓDIGO
 
 ## Estado
-FASE 00 criada. Investigação documental ainda não iniciada.
+
+**FASE 00 — VALIDADA / ENCERRADA.**
+
+A fase estabeleceu documentalmente o início da atuação de Décio Bazin no mercado no começo da década de 1960, com declaração autobiográfica de militância na Bolsa desde 1960, atuação descrita como operador em corretora na Rua XV de Novembro e participação no pregão.
+
+A identidade da corretora e eventual vínculo empregatício específico permanecem não estabelecidos. Esses elementos não são necessários para responder à pergunta central da fase e não serão preenchidos por inferência.
+
+## Conclusão
+
+A FASE 00 considera como núcleo histórico relevante aquilo que o próprio Bazin registrou sobre seu início no mercado: período, ambiente, atividades e evolução de sua experiência como operador até 1971.
+
+**Cadeia obrigatória:** PROMPTS → CARTAS → LAYOUT ÚNICO → CÓDIGO
