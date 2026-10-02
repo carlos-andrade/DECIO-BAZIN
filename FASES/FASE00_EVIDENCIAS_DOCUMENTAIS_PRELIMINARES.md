@@ -1,4 +1,16 @@
-# FASE 00 — EVIDÊNCIAS DOCUMENTAIS PRELIMINARES
+---
+projeto: DECIO-BAZIN
+repositorio: carlos-andrade/DECIO-BAZIN
+tipo_documento: EVIDÊNCIA
+fase: FASE 00
+titulo: EVIDÊNCIAS DOCUMENTAIS PRELIMINARES
+status: EM INVESTIGAÇÃO
+versao: 1.0
+data_criacao: 2026-10-02
+data_atualizacao: 2026-10-02
+origem: EVIDÊNCIA
+autoridade: PROMPTS → CARTAS → LAYOUT ÚNICO → CÓDIGO
+---
 
 ## Estado
 
