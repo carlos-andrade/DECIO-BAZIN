@@ -410,13 +410,13 @@ Foi realizada nova varredura dirigida do texto pesquisável disponível da obra,
 
 ### Resultados identificados
 
-1. **Cássio Muniz** aparece no capítulo autobiográfico como empresa cujas ações Bazin comprou posteriormente, no balcão, para sua própria conta. O texto informa que o corretor que lhe vendeu os lotes lhe apresentou uma narrativa especulativa sobre a empresa. A passagem **não identifica a corretora empregadora de Bazin**. citeturn2search0turn2search2
+1. **Cássio Muniz** aparece no capítulo autobiográfico como empresa cujas ações Bazin comprou posteriormente, no balcão, para sua própria conta. O texto informa que o corretor que lhe vendeu os lotes lhe apresentou uma narrativa especulativa sobre a empresa. A passagem **não identifica a corretora empregadora de Bazin**.
 
-2. **Ney Carvalho** aparece em parte posterior da obra como nome de uma corretora centenária envolvida em episódio ligado a Fernando de Carvalho e a acontecimentos posteriores. A ocorrência está fora da narrativa da primeira entrada de Bazin e, portanto, **não pode ser usada para identificar sua primeira corretora**. citeturn1search3
+2. **Ney Carvalho** aparece em parte posterior da obra como nome de uma corretora centenária envolvida em episódio ligado a Fernando de Carvalho e a acontecimentos posteriores. A ocorrência está fora da narrativa da primeira entrada de Bazin e, portanto, **não pode ser usada para identificar sua primeira corretora**.
 
-3. **Aceite Corretora** e **Progresso** aparecem em material posterior relacionado ao mercado especulativo e a acontecimentos das décadas de 1980–1990. A própria passagem informa datas e fatos posteriores, afastando esses nomes da identificação da corretora do início dos anos 1960. citeturn2search1
+3. **Aceite Corretora** e **Progresso** aparecem em material posterior relacionado ao mercado especulativo e a acontecimentos das décadas de 1980–1990. A própria passagem informa datas e fatos posteriores, afastando esses nomes da identificação da corretora do início dos anos 1960.
 
-4. A expressão **“em nossa corretora”** aparece em uma passagem em que Bazin recorda um colega da área administrativa que defendia ações do Banco do Brasil. O texto não fornece, nesse trecho, o nome da empresa. citeturn0search3
+4. A expressão **“em nossa corretora”** aparece em uma passagem em que Bazin recorda um colega da área administrativa que defendia ações do Banco do Brasil. O texto não fornece, nesse trecho, o nome da empresa.
 
 5. A expressão **“dono da corretora”** aparece em episódios narrativos posteriores, mas sem vínculo documental demonstrado com a corretora em que Bazin trabalhou no começo dos anos 1960. citeturn2search1
 
