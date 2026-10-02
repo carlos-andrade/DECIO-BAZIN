@@ -5,7 +5,7 @@ tipo_documento: EVIDÊNCIA
 fase: FASE 00
 titulo: EVIDÊNCIAS DOCUMENTAIS PRELIMINARES
 status: EM INVESTIGAÇÃO
-versao: 1.8
+versao: 1.9
 data_criacao: 2026-10-02
 data_atualizacao: 2026-10-02
 origem: EVIDÊNCIA
@@ -598,7 +598,7 @@ O material histórico do MUB3 permite identificar, para o período, nomes de age
 - **João Osório de Oliveira Germano** — iniciou-se na Bolsa como **preposto de Corretor Oficial** em 1939; tomou posse como Corretor Oficial em 1963.
 
 Fonte institucional principal:
-- MUB3 — *Biografias dos Presidentes*, acervo histórico da Bolsa. citeturn1search23
+- MUB3 — *Biografias dos Presidentes*, acervo histórico da Bolsa. — MUB3, *Biografias dos Presidentes*, acervo histórico da Bolsa.
 
 Esses registros são relevantes porque demonstram que o universo documental contém não apenas presidentes, mas também trajetórias de Corretores Oficiais e de prepostos. Isso reforça a estratégia de procurar o vínculo de Bazin pelo nome civil, por listas profissionais, escritórios e relações de preposição.
 
@@ -612,7 +612,7 @@ Portanto, nenhum desses nomes pode ser tratado como primeiro empregador, patrono
 
 ### Nova ocorrência institucional — João Roberto Lerosa
 
-Foi localizada documentação institucional da própria Lerosa informando que **João Roberto Lerosa foi nomeado Corretor Oficial em 1961** e que a empresa Lerosa iniciou suas atividades como Corretora de Valores Mobiliários em **1963**. citeturn1search22
+Foi localizada documentação institucional da própria Lerosa informando que **João Roberto Lerosa foi nomeado Corretor Oficial em 1961** e que a empresa Lerosa iniciou suas atividades como Corretora de Valores Mobiliários em **1963**. — documentação institucional da Lerosa.
 
 A coincidência temporal torna a Lerosa um nome historicamente pertinente ao universo de corretoras do período, mas **não existe, na documentação localizada, ligação nominal entre Bazin/Delacir e João Roberto Lerosa ou a Lerosa**.
 
@@ -638,3 +638,51 @@ Esta rodada acrescenta um controle importante:
 - Data 1960: **mantida como declaração autobiográfica explícita de militância na Bolsa; não convertida em data de contratação**.
 
 **Estado:** INVESTIGAÇÃO CONTINUA — próximo alvo: Hemeroteca Digital e imprensa paulista contemporânea, cruzando nomes de Corretores Oficiais, prepostos, escritórios e o nome civil Delacir Mazzini.
+
+
+## 4S. Busca contemporânea — imprensa e Hemeroteca, 1958–1965
+
+Foi realizada nova rodada de buscas direcionadas para ocorrências contemporâneas ou próximas do período de entrada de Bazin no mercado, combinando:
+
+- “Décio Bazin”;
+- “Delacir Mazzini”;
+- corretor;
+- corretor oficial;
+- preposto;
+- Bolsa;
+- Rua XV de Novembro;
+- anos de 1960 a 1965;
+- O Estado de S. Paulo;
+- Gazeta Mercantil.
+
+### Resultado
+
+As buscas públicas indexadas não localizaram, nesta rodada, uma ocorrência contemporânea confiável que:
+
+1. identifique nominalmente a corretora em que Bazin trabalhava;
+2. identifique seu superior, Corretor Oficial ou preposto;
+3. estabeleça documentalmente o vínculo entre Bazin/Delacir e um escritório específico da Rua XV de Novembro;
+4. estabeleça a data exata de contratação.
+
+As ocorrências encontradas continuam reproduzindo principalmente fontes secundárias ou o próprio livro de Bazin. O livro permanece a fonte primária autobiográfica mais direta para a afirmação de que, no começo da década de 1960, ele saía diariamente da corretora na Rua XV de Novembro e levava ordens ao pregão. citeturn0search0turn0search1
+
+### Controle de interpretação
+
+A ausência de uma ocorrência nominal na busca pública **não prova que o documento não exista**. Ela significa somente que não foi localizado nas bases/indexações pesquisadas nesta rodada.
+
+Também não será utilizada a repetição, por fontes secundárias, da fórmula “operador desde 1960” como substituta de documentação sobre o empregador. A formulação permanece:
+
+> Bazin declarou que militava na Bolsa desde 1960 e descreveu sua atuação como operador no começo da década de 1960.
+
+Isso não identifica, por si só, a primeira corretora.
+
+### Estado do gate 4S
+
+- Imprensa contemporânea pesquisada: **SEM IDENTIFICAÇÃO NOMINAL CONCLUSIVA**.
+- Primeira corretora: **PENDENTE**.
+- Primeiro superior/Corretor Oficial: **PENDENTE**.
+- Data exata de contratação: **PENDENTE**.
+- Evidência autobiográfica de atuação no início dos anos 1960: **MANTIDA**.
+- Investigação documental: **CONTINUA**.
+
+**Próximo alvo documental:** acervo primário institucional/MUB3 e Hemeroteca em consultas mais específicas por nomes de Corretores Oficiais, escritórios e listas profissionais do período, evitando ampliar a hipótese sem evidência.
