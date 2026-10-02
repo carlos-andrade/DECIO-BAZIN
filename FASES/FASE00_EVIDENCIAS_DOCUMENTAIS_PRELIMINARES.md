@@ -418,7 +418,7 @@ Foi realizada nova varredura dirigida do texto pesquisável disponível da obra,
 
 4. A expressão **“em nossa corretora”** aparece em uma passagem em que Bazin recorda um colega da área administrativa que defendia ações do Banco do Brasil. O texto não fornece, nesse trecho, o nome da empresa.
 
-5. A expressão **“dono da corretora”** aparece em episódios narrativos posteriores, mas sem vínculo documental demonstrado com a corretora em que Bazin trabalhou no começo dos anos 1960. citeturn2search1
+5. A expressão **“dono da corretora”** aparece em episódios narrativos posteriores, mas sem vínculo documental demonstrado com a corretora em que Bazin trabalhou no começo dos anos 1960.
 
 ### Controle de falso positivo
 
