@@ -5,7 +5,7 @@ tipo_documento: EVIDÊNCIA
 fase: FASE 00
 titulo: EVIDÊNCIAS DOCUMENTAIS PRELIMINARES
 status: EM INVESTIGAÇÃO
-versao: 1.6
+versao: 1.7
 data_criacao: 2026-10-02
 data_atualizacao: 2026-10-02
 origem: EVIDÊNCIA
@@ -548,3 +548,39 @@ A sequência não permite afirmar que a compra de Cássio Muniz ocorreu em 1960,
 - **Banco do Brasil:** continua **PISTA SECUNDÁRIA / PENDENTE**.
 
 **Estado:** INVESTIGAÇÃO CONTINUA. Próximo alvo documental: registros nominais de Corretores Oficiais/prepostos e documentação institucional da Bolsa paulista entre 1959 e 1966, cruzados com o nome civil Delacir Mazzini e com a Rua XV de Novembro.
+
+
+## 4Q. Rodada nominal de Corretores Oficiais/prepostos — 1959–1963
+
+Foi realizada uma rodada dirigida para localizar registros nominais de **Corretores Oficiais, prepostos e operadores** da Bolsa paulista no intervalo de 1959–1963, com cruzamento específico contra Décio Bazin/Delacir Mazzini.
+
+### Resultado documental
+
+O acervo histórico do **MUB3** confirma que existem registros biográficos nominais de Corretores Oficiais para o período. Um exemplo diretamente localizado é **Egberto Campos Fraga**, identificado pelo MUB3 como Corretor Oficial da Bolsa e Presidente da Bolsa Oficial de Valores de São Paulo entre 1962 e 1963. A biografia informa sua nomeação como Corretor Oficial em 1945 e registra sua atuação na Câmara Sindical em 1960–1961. citeturn3search0
+
+Esse registro é importante metodologicamente porque demonstra que o acervo institucional preserva **nomes, cargos, períodos e trajetória funcional** dos agentes da Bolsa — exatamente a classe de documento que poderá permitir o cruzamento com a trajetória inicial de Bazin.
+
+O MUB3 também descreve sua coleção como contendo documentos históricos, informações sobre a transformação do mercado de capitais brasileiro entre as décadas de 1930 e 1960 e elementos relacionados à atuação dos Corretores Oficiais. citeturn3search1
+
+### Cruzamento com Bazin
+
+Apesar da existência desses registros nominais, **não foi localizado nesta rodada um documento do MUB3 que associe nominalmente Décio Bazin ou Delacir Mazzini a um Corretor Oficial, preposto ou corretora específica entre 1959 e 1963**.
+
+As buscas abertas pelo nome de Bazin continuam retornando principalmente a autobiografia de *Faça Fortuna com Ações* e fontes secundárias que repetem sua entrada no mercado no começo dos anos 1960. A própria obra continua sendo a fonte mais específica para o contexto: Bazin afirma que “militava na Bolsa desde 1960” e descreve trabalho em uma corretora da Rua XV de Novembro no começo da década. citeturn2search0turn2search1
+
+### Controle de inferência
+
+O registro de Egberto Campos Fraga **não constitui identificação da primeira corretora de Bazin**. Ele é utilizado exclusivamente como evidência de que o universo institucional e os registros nominais necessários à investigação existiam e podem ser explorados.
+
+Também não será inferido que Bazin era preposto de um Corretor Oficial específico apenas porque atuava no mesmo período e na mesma região central de São Paulo.
+
+### Resultado do gate
+
+- **Registros nominais de Corretores Oficiais no período:** CONFIRMADOS.
+- **Existência de documentação institucional MUB3 relevante:** CONFIRMADA.
+- **Décio Bazin/Delacir Mazzini ligado nominalmente a um desses registros:** NÃO LOCALIZADO.
+- **Primeira corretora:** NÃO IDENTIFICADA.
+- **Banco do Brasil:** PISTA SECUNDÁRIA / PENDENTE.
+- **Próximo alvo:** aprofundar o acervo institucional do MUB3 e a Hemeroteca Digital por nomes de Corretores Oficiais e seus escritórios/prepostos, procurando uma ligação documental com Bazin.
+
+**Estado:** INVESTIGAÇÃO CONTINUA — a pista institucional foi fortalecida, mas a identidade da primeira corretora permanece pendente.
