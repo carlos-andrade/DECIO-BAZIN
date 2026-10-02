@@ -1,4 +1,16 @@
-# PROMPT — FASE 00: ORIGEM E ENTRADA DE DÉCIO BAZIN NO MERCADO FINANCEIRO
+---
+projeto: DECIO-BAZIN
+repositorio: carlos-andrade/DECIO-BAZIN
+tipo_documento: PROMPT
+fase: FASE 00
+titulo: INVESTIGAÇÃO DA ORIGEM E ENTRADA DE DÉCIO BAZIN NO MERCADO FINANCEIRO
+status: EM INVESTIGAÇÃO
+versao: 1.0
+data_criacao: 2026-10-02
+data_atualizacao: 2026-10-02
+origem: PROMPT
+autoridade: PROMPTS → CARTAS → LAYOUT ÚNICO → CÓDIGO
+---
 
 ## Finalidade
 Conduzir uma investigação documental, cronológica e auditável para identificar o ponto mais antigo verificável da entrada de Décio Bazin no mercado financeiro e reconstruir os acontecimentos que levaram à formação de sua atuação profissional e como investidor.
