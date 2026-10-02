@@ -5,7 +5,7 @@ tipo_documento: EVIDÊNCIA
 fase: FASE 00
 titulo: EVIDÊNCIAS DOCUMENTAIS PRELIMINARES
 status: EM INVESTIGAÇÃO
-versao: 1.1
+versao: 1.2
 data_criacao: 2026-10-02
 data_atualizacao: 2026-10-02
 origem: EVIDÊNCIA
@@ -86,6 +86,50 @@ A pesquisa adicional encontrou quatro pontos relevantes:
 A combinação das fontes permite elevar a confiança na formulação **"Bazin já trabalhava como operador de corretora no começo da década de 1960"**, porque essa informação aparece na própria narrativa autobiográfica da obra e encontra contexto adicional na descrição editorial posterior.
 
 Entretanto, **não há ainda evidência independente contemporânea suficiente para converter "começo da década de 1960" em um ano específico**. A investigação permanece aberta para localizar o nome da corretora, registros jornalísticos contemporâneos e documentação profissional.
+
+
+
+## 4B. Cruzamento externo — fontes secundárias e registro institucional
+
+A pesquisa externa realizada em 2026-10-02 acrescentou corroboradores, mas não alterou a conclusão cronológica principal.
+
+### 4B.1. Corroboração bibliográfica e acadêmica
+
+Um trabalho acadêmico da PUC-Rio registra que Décio Bazin se formou em Contabilidade nos anos 1950 e **trabalhou como operador de mercado em uma corretora no começo da década de 1960**. O mesmo trabalho informa que a primeira edição de *Faça Fortuna com Ações — Antes que seja tarde* foi lançada em outubro de 1992.
+
+Fonte:
+- PUC-Rio, trabalho acadêmico: https://www.maxwell.vrac.puc-rio.br/67399/67399.PDF
+
+Essa fonte é **secundária**. Ela corrobora a cronologia indicada pela própria narrativa de Bazin, mas não substitui a fonte primária.
+
+### 4B.2. Corroboração independente sobre a atividade profissional posterior
+
+Há registro no **Diário da Assembleia Nacional Constituinte de 13 de abril de 1988** de análise financeira publicada pela *Gazeta Mercantil* e atribuída ao **analista financeiro Décio Bazin**. Isso constitui evidência institucional contemporânea de sua atuação profissional como analista financeiro em 1988.
+
+Fonte:
+- Câmara dos Deputados, Diário da Assembleia Nacional Constituinte, 13/04/1988: https://imagem.camara.leg.br/Imagem/d/pdf/224anc13abr1988.pdf
+
+Essa evidência não prova a entrada de Bazin no mercado nos anos 1960, mas confirma documentalmente que, em 1988, ele já atuava publicamente como analista financeiro da *Gazeta Mercantil*.
+
+### 4B.3. Corroboração da narrativa sobre a década de 1960
+
+Duas reproduções pesquisáveis independentes da obra apresentam a mesma passagem autobiográfica que situa o trabalho de Bazin em corretora no começo da década de 1960 e descreve a execução de ordens no pregão.
+
+Fontes:
+- Passei Direto: https://www.passeidireto.com/arquivo/88374974/faca-fortuna-com-acoes-decio-bazin
+- Scribd: https://pt.scribd.com/document/369205761/Faca-Fortuna-Com-Acoes
+
+As duas reproduções são **derivadas da obra**, portanto não devem ser contadas como duas fontes primárias independentes. Elas apenas aumentam a verificabilidade textual da mesma fonte de origem.
+
+### 4B.4. Limite da evidência
+
+Até este ponto, a pesquisa sustenta com segurança documental a formulação:
+
+> **Décio Bazin afirma em sua obra autobiográfica que, no começo da década de 1960, trabalhava em uma corretora e executava ordens de compra e venda no pregão da Bolsa de Valores de São Paulo.**
+
+A pesquisa ainda **não localizou documentação contemporânea dos anos 1960** que identifique a corretora, registre sua contratação ou estabeleça um ano específico de ingresso.
+
+Consequentemente, permanece proibida nesta fase qualquer formulação mais precisa, como "Bazin entrou no mercado em 1960", salvo se nova evidência primária ou contemporânea for encontrada.
 
 ## 5. Estado atual da pergunta central
 
