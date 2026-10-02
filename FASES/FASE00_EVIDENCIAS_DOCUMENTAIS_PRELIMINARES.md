@@ -5,7 +5,7 @@ tipo_documento: EVIDÊNCIA
 fase: FASE 00
 titulo: EVIDÊNCIAS DOCUMENTAIS PRELIMINARES
 status: EM INVESTIGAÇÃO
-versao: 1.4
+versao: 1.5
 data_criacao: 2026-10-02
 data_atualizacao: 2026-10-02
 origem: EVIDÊNCIA
@@ -302,3 +302,67 @@ A trilha documental passa agora a ter **duas frentes independentes**:
 
 Nenhuma dessas pistas será promovida a fato consolidado sem evidência adequada.
 
+
+
+## 4I. Evidência temporal explícita — referência a 1960
+
+A pesquisa dirigida localizou uma passagem adicional da própria obra em que Bazin afirma, em primeira pessoa:
+
+> **“Eu militava na Bolsa desde 1960”**.
+
+A passagem aparece no capítulo **“Eu, operador sem malícias”**, no contexto em que Bazin explica a um amigo sua experiência acumulada na Bolsa e a formação de sua convicção sobre ações.
+
+### Valor documental
+
+Esta é, até o momento, a **referência temporal explícita mais precisa localizada na própria narrativa autobiográfica**. Ela permite registrar **1960 como o ano que Bazin próprio associa ao início de sua atuação/militância na Bolsa**.
+
+Entretanto, a expressão **“militava na Bolsa” não deve ser automaticamente convertida em “foi contratado por uma corretora em 1960”**. O mesmo capítulo descreve o trabalho em corretora como ocorrendo “no começo da década de 60”, mas não fornece, nessa passagem, a data de contratação nem o nome da corretora.
+
+Portanto, a distinção obrigatória passa a ser:
+
+- **1960:** Bazin afirma que já “militava na Bolsa” desde esse ano;
+- **começo da década de 1960:** Bazin descreve trabalho em uma corretora da Rua XV de Novembro e execução de ordens no pregão;
+- **1966, 1969 e 1971:** Bazin afirma ter participado desses booms como operador de pregão;
+- **1971:** Bazin afirma que o crash encerrou sua experiência como operador.
+
+### Classificação
+
+**Fonte:** autobiografia de Bazin reproduzida por terceiros.  
+**Força:** alta para registrar a declaração autobiográfica de 1960; insuficiente, isoladamente, para identificar o empregador, a data de contratação ou a natureza exata do primeiro vínculo profissional.
+
+Fontes de reprodução pesquisável:
+- Passei Direto: https://www.passeidireto.com/arquivo/85940525/faca-fortuna-com-acoes-decio-bazin
+- Scribd: https://www.scribd.com/document/778448649/Faca-Fortuna-com-Acoes-Decio-Bazin
+
+### Formulação controlada atualizada
+
+> **Na narrativa autobiográfica de *Faça Fortuna com Ações*, Décio Bazin afirma que “militava na Bolsa desde 1960”. No mesmo capítulo, descreve que, no começo da década de 1960, trabalhava em uma corretora na Rua XV de Novembro e executava ordens no pregão. A documentação atualmente localizada não permite afirmar que 1960 seja necessariamente o ano de contratação pela corretora.**
+
+Esta formulação substitui a anterior quando o objetivo for registrar a **primeira data explícita declarada por Bazin**.
+
+## 4J. Impacto sobre a matriz cronológica
+
+A matriz passa a distinguir **data declarada de atuação na Bolsa** de **data ainda não comprovada de contratação pela corretora**:
+
+| Etapa | Período indicado | Evidência | Estado |
+|---|---|---|---|
+| Formação em Contabilidade | anos 1950 | fonte acadêmica secundária | corroborado secundariamente |
+| Possível atividade bancária no Banco do Brasil | anterior ao ingresso em corretora | fonte secundária | **pista, não validado** |
+| **Atuação/militância na Bolsa** | **desde 1960** | declaração autobiográfica | **data explícita na fonte primária reproduzida** |
+| Trabalho em corretora / operador de pregão | começo dos anos 1960 | narrativa autobiográfica | **forte, mas reprodução por terceiro** |
+| Participação em booms | 1966, 1969 e 1971 | narrativa autobiográfica | corroborado pela própria obra |
+| Encerramento da experiência como operador | 1971 | narrativa autobiográfica | corroborado pela própria obra |
+| Atuação como analista financeiro | 1988 | Diário da Assembleia Nacional Constituinte | **registro institucional contemporâneo** |
+| Publicação de *Faça Fortuna com Ações* | outubro de 1992 | fonte acadêmica/bibliográfica | corroborado secundariamente |
+
+### Nova conclusão operacional
+
+A investigação **não deve mais tratar “1960” apenas como uma hipótese derivada de “começo da década de 1960”**. Existe uma declaração autobiográfica explícita de Bazin situando sua militância na Bolsa desde 1960.
+
+Ao mesmo tempo, a investigação continua sem prova documental independente de que **1960 foi o ano de contratação na primeira corretora**.
+
+A busca permanece aberta para:
+1. identificar a primeira corretora;
+2. verificar se o vínculo profissional já existia em 1960;
+3. localizar documentação contemporânea que confirme a declaração autobiográfica;
+4. determinar se houve atividade bancária anterior e, em caso afirmativo, seu período.
