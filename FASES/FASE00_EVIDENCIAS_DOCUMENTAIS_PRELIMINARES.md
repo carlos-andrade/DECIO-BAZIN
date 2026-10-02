@@ -5,7 +5,7 @@ tipo_documento: EVIDÊNCIA
 fase: FASE 00
 titulo: EVIDÊNCIAS DOCUMENTAIS PRELIMINARES
 status: EM INVESTIGAÇÃO
-versao: 1.7
+versao: 1.8
 data_criacao: 2026-10-02
 data_atualizacao: 2026-10-02
 origem: EVIDÊNCIA
@@ -584,3 +584,57 @@ Também não será inferido que Bazin era preposto de um Corretor Oficial espec�
 - **Próximo alvo:** aprofundar o acervo institucional do MUB3 e a Hemeroteca Digital por nomes de Corretores Oficiais e seus escritórios/prepostos, procurando uma ligação documental com Bazin.
 
 **Estado:** INVESTIGAÇÃO CONTINUA — a pista institucional foi fortalecida, mas a identidade da primeira corretora permanece pendente.
+
+## 4R. Rodada nominal ampliada — Corretores Oficiais, prepostos e escritórios
+
+A investigação ampliou o cruzamento nominal dos registros institucionais disponíveis para o período de 1959–1963.
+
+### Registros institucionais adicionais
+
+O material histórico do MUB3 permite identificar, para o período, nomes de agentes que exerceram funções relevantes na Bolsa Oficial de Valores de São Paulo. Entre os registros localizados estão:
+
+- **Egberto Campos Fraga** — Corretor Oficial; Síndico da Bolsa Oficial de Valores de São Paulo em 1962–1963; atuação na Câmara Sindical em 1960–1961.
+- **Túlio Misasi** — Corretor Oficial desde 1932; Síndico da Bolsa Oficial de Valores de São Paulo em 1960–1961.
+- **João Osório de Oliveira Germano** — iniciou-se na Bolsa como **preposto de Corretor Oficial** em 1939; tomou posse como Corretor Oficial em 1963.
+
+Fonte institucional principal:
+- MUB3 — *Biografias dos Presidentes*, acervo histórico da Bolsa. citeturn1search23
+
+Esses registros são relevantes porque demonstram que o universo documental contém não apenas presidentes, mas também trajetórias de Corretores Oficiais e de prepostos. Isso reforça a estratégia de procurar o vínculo de Bazin pelo nome civil, por listas profissionais, escritórios e relações de preposição.
+
+### Cruzamento nominal com Bazin/Delacir
+
+Foram realizadas buscas combinando **Décio Bazin** e **Delacir Mazzini** com os nomes acima e com os termos corretor, preposto, Bolsa, Rua XV de Novembro e anos 1960–1963.
+
+**Resultado:** não foi localizado documento confiável que associe Bazin/Delacir nominalmente a Egberto Campos Fraga, Túlio Misasi, João Osório de Oliveira Germano ou a outro Corretor Oficial identificado nesta rodada.
+
+Portanto, nenhum desses nomes pode ser tratado como primeiro empregador, patrono ou corretor responsável pela atuação inicial de Bazin.
+
+### Nova ocorrência institucional — João Roberto Lerosa
+
+Foi localizada documentação institucional da própria Lerosa informando que **João Roberto Lerosa foi nomeado Corretor Oficial em 1961** e que a empresa Lerosa iniciou suas atividades como Corretora de Valores Mobiliários em **1963**. citeturn1search22
+
+A coincidência temporal torna a Lerosa um nome historicamente pertinente ao universo de corretoras do período, mas **não existe, na documentação localizada, ligação nominal entre Bazin/Delacir e João Roberto Lerosa ou a Lerosa**.
+
+Além disso, a documentação disponível informa início da empresa em 1963; isso impede usar a Lerosa como identificação automática da corretora de Bazin no começo da década. A hipótese fica classificada como **não comprovada / falso positivo potencial**, não como candidata confirmada.
+
+### Controle de falso positivo
+
+Esta rodada acrescenta um controle importante:
+
+- mesmo quando existe um Corretor Oficial nominalmente documentado no período;
+- mesmo quando existe uma corretora historicamente ativa a partir de 1963;
+- e mesmo quando há coincidência temporal com a declaração autobiográfica de Bazin;
+
+**a ausência de um vínculo documental nominal impede a atribuição.**
+
+### Resultado do gate
+
+- Corretores Oficiais/prepostos 1959–1963: **registros nominais confirmados**.
+- Egberto Campos Fraga / Túlio Misasi / João Osório Germano: **contexto institucional confirmado; vínculo com Bazin não localizado**.
+- João Roberto Lerosa / Lerosa: **contexto temporal confirmado; vínculo com Bazin não localizado**.
+- Primeira corretora de Bazin: **NÃO IDENTIFICADA**.
+- Banco do Brasil: **PISTA SECUNDÁRIA / PENDENTE**.
+- Data 1960: **mantida como declaração autobiográfica explícita de militância na Bolsa; não convertida em data de contratação**.
+
+**Estado:** INVESTIGAÇÃO CONTINUA — próximo alvo: Hemeroteca Digital e imprensa paulista contemporânea, cruzando nomes de Corretores Oficiais, prepostos, escritórios e o nome civil Delacir Mazzini.
