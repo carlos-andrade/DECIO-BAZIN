@@ -441,3 +441,46 @@ A pesquisa deve continuar pelo eixo documental externo **Rua XV de Novembro + co
 - **Próximo gate:** documentação contemporânea ou institucional capaz de ligar Bazin a uma corretora específica.
 
 **Estado:** INVESTIGAÇÃO CONTINUA — primeira corretora permanece pendente.
+
+## 4N. Investigação externa — Rua XV de Novembro, mercado e vínculo bancário
+
+Foi executado o cruzamento externo solicitado para Rua XV de Novembro + corretoras + Bolsa de Valores de São Paulo + início dos anos 1960, incluindo buscas nominais por Décio Bazin e pelo nome civil Delacir Mazzini.
+
+### 4N.1. Contexto de mercado
+
+A obra reproduzida confirma que, no começo da década de 1960, Bazin saía diariamente da corretora em que trabalhava, localizada na Rua XV de Novembro, e seguia ao antigo prédio da Bolsa situado diante do Pátio do Colégio. A mesma passagem registra que ele executava no pregão as ordens recebidas na corretora. 
+
+A documentação histórica sobre o mercado paulista registra que a estrutura institucional das bolsas mudou com as reformas de 1965–1966: até meados da década de 1960 existiam corretores individuais ligados às bolsas oficiais, e a sociedade corretora passou a substituir essa figura no novo desenho institucional. Esse dado é relevante porque impede importar automaticamente a estrutura regulatória posterior para interpretar uma relação profissional do início dos anos 1960.
+
+Fontes externas consultadas: obra de Bazin em reprodução pesquisável; material histórico do MUB3 sobre a formação do mercado de títulos; histórico institucional da Bolsa.
+
+### 4N.2. Banco do Brasil
+
+Foi localizada fonte secundária que afirma que Bazin começou a trabalhar como bancário no Banco do Brasil e posteriormente ingressou no mercado de capitais como operador em corretoras. Uma segunda fonte, baseada em entrevista com sua filha Lúcia Mazzini, também relata a passagem de Delacir Mazzini pelo Banco do Brasil antes da trajetória posterior como jornalista/analista.
+
+Classificação: Banco do Brasil = PISTA SECUNDÁRIA RELEVANTE, ainda não validada como cronologia profissional completa.
+
+### 4N.3. Identificação da primeira corretora
+
+A busca nominal externa por Décio Bazin, Delacir Mazzini, Rua XV de Novembro e corretoras dos primeiros anos da década de 1960 não produziu uma fonte confiável que associe nominalmente Bazin a uma corretora específica.
+
+Foram encontradas referências a corretoras e escritórios situados na Rua XV de Novembro, mas sem ligação documental com Bazin. Essas ocorrências foram descartadas como identificação.
+
+### 4N.4. Resultado do gate externo
+
+Primeira corretora: NÃO IDENTIFICADA.
+
+Banco do Brasil: PISTA SECUNDÁRIA RELEVANTE, mas ainda sem cronologia profissional validada.
+
+Data 1960: continua sendo a primeira data explícita encontrada na autobiografia de Bazin para sua atuação/militância na Bolsa; não deve ser convertida automaticamente em data de contratação.
+
+### 4N.5. Próxima linha documental
+
+A pesquisa deve agora avançar para fontes primárias ou institucionais mais próximas do período:
+
+1. Hemeroteca Digital Brasileira / Biblioteca Nacional: jornais de São Paulo entre 1958 e 1965, buscando Delacir Mazzini, Décio Bazin, corretor, corretora, Bolsa de Valores de São Paulo e variantes ortográficas.
+2. Acervos históricos da Bolsa/MUB3: listas, anuários, registros de operadores, sociedades corretoras e documentos institucionais da transição 1965–1967.
+3. Arquivo histórico do Banco do Brasil: documentação capaz de confirmar período e cargo de Delacir Mazzini.
+4. Jornais O Estado de S. Paulo e Gazeta Mercantil: buscar a assinatura/nome civil de Bazin em períodos anteriores ao reconhecimento como analista.
+
+Estado: GATE EXTERNO EXECUTADO — primeira corretora continua pendente; Banco do Brasil permanece em validação.
