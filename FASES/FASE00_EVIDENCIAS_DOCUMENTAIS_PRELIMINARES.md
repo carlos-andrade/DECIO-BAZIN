@@ -5,7 +5,7 @@ tipo_documento: EVIDÊNCIA
 fase: FASE 00
 titulo: EVIDÊNCIAS DOCUMENTAIS PRELIMINARES
 status: EM INVESTIGAÇÃO
-versao: 1.0
+versao: 1.1
 data_criacao: 2026-10-02
 data_atualizacao: 2026-10-02
 origem: EVIDÊNCIA
@@ -62,6 +62,30 @@ A descrição editorial da obra afirma que Bazin acumulou três décadas de atua
 Fontes:
 - Google Books: https://books.google.com/books/about/Fa%C3%A7a_Fortuna_com_A%C3%A7%C3%B5es.html?id=L0BXDgAAQBAJ
 - Digitaliza Brasil: https://www.digitalizabrasil.com.br/e-books/faca-fortuna-com-acoes-antes-que-seja-tarde
+
+
+
+## 4A. Verificação adicional — estado da evidência em 2026-10-02
+
+A pesquisa adicional encontrou quatro pontos relevantes:
+
+1. **Open Library** registra uma edição de *Faça fortuna com ações* publicada em **1992**, pela **Editora CLA**, com 343 páginas, mas também a classifica como "10th edition". Isso confirma a existência do registro bibliográfico de 1992, porém mantém a inconsistência sobre o número da edição e, portanto, não resolve sozinho a questão da primeira edição.
+   - Fonte: https://openlibrary.org/works/OL24245399W/Fa%C3%A7a_fortuna_com_a%C3%A7%C3%B5es
+
+2. **Digitaliza Brasil** descreve a obra como lançada em 1992 e afirma que Bazin acumulou **três décadas de atuação na Bolsa** e quase vinte anos como analista de mercado de capitais na Gazeta Mercantil e na revista Balanço Financeiro. Essa descrição é uma fonte editorial secundária e deve ser tratada como corroborativa, não como prova independente da data de ingresso.
+   - Fonte: https://www.digitalizabrasil.com.br/e-books/faca-fortuna-com-acoes-antes-que-seja-tarde
+
+3. Uma reprodução pesquisável da obra disponibilizada no Scribd permite verificar diretamente a passagem do capítulo **"Eu, operador sem malícias"** em que Bazin situa seu trabalho em corretora **"No começo da década de 60"**, descreve a execução de ordens no pregão e informa que também trabalhava como repórter do *O Estado de S. Paulo*.
+   - Fonte: https://www.scribd.com/document/778448649/Faca-Fortuna-com-Acoes-Decio-Bazin
+
+4. A mesma reprodução registra que Bazin participou, como operador de pregão, dos booms de **1966, 1969 e 1971**. Isso é compatível com uma atividade de operador já estabelecida antes de 1966, mas não estabelece o ano exato de início.
+   - Fonte: https://www.scribd.com/document/778448649/Faca-Fortuna-com-Acoes-Decio-Bazin
+
+### Avaliação documental
+
+A combinação das fontes permite elevar a confiança na formulação **"Bazin já trabalhava como operador de corretora no começo da década de 1960"**, porque essa informação aparece na própria narrativa autobiográfica da obra e encontra contexto adicional na descrição editorial posterior.
+
+Entretanto, **não há ainda evidência independente contemporânea suficiente para converter "começo da década de 1960" em um ano específico**. A investigação permanece aberta para localizar o nome da corretora, registros jornalísticos contemporâneos e documentação profissional.
 
 ## 5. Estado atual da pergunta central
 
