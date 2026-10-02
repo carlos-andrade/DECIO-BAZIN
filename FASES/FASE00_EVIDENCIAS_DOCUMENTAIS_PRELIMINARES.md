@@ -402,3 +402,42 @@ A busca dirigida permanece sem identificação nominal da primeira corretora. A 
 A próxima busca deve cruzar **Rua XV de Novembro + corretoras + Bolsa de Valores de São Paulo + início dos anos 1960**, priorizando anuários, jornais e publicações institucionais da época.
 
 **Estado:** PENDENTE.
+
+
+## 4M. Varredura nominal do texto — controle da primeira corretora
+
+Foi realizada nova varredura dirigida do texto pesquisável disponível da obra, procurando não apenas a palavra **“corretora”**, mas também nomes de empresas, pessoas e expressões que pudessem funcionar como identificadores indiretos da primeira corretora.
+
+### Resultados identificados
+
+1. **Cássio Muniz** aparece no capítulo autobiográfico como empresa cujas ações Bazin comprou posteriormente, no balcão, para sua própria conta. O texto informa que o corretor que lhe vendeu os lotes lhe apresentou uma narrativa especulativa sobre a empresa. A passagem **não identifica a corretora empregadora de Bazin**. citeturn2search0turn2search2
+
+2. **Ney Carvalho** aparece em parte posterior da obra como nome de uma corretora centenária envolvida em episódio ligado a Fernando de Carvalho e a acontecimentos posteriores. A ocorrência está fora da narrativa da primeira entrada de Bazin e, portanto, **não pode ser usada para identificar sua primeira corretora**. citeturn1search3
+
+3. **Aceite Corretora** e **Progresso** aparecem em material posterior relacionado ao mercado especulativo e a acontecimentos das décadas de 1980–1990. A própria passagem informa datas e fatos posteriores, afastando esses nomes da identificação da corretora do início dos anos 1960. citeturn2search1
+
+4. A expressão **“em nossa corretora”** aparece em uma passagem em que Bazin recorda um colega da área administrativa que defendia ações do Banco do Brasil. O texto não fornece, nesse trecho, o nome da empresa. citeturn0search3
+
+5. A expressão **“dono da corretora”** aparece em episódios narrativos posteriores, mas sem vínculo documental demonstrado com a corretora em que Bazin trabalhou no começo dos anos 1960. citeturn2search1
+
+### Controle de falso positivo
+
+A varredura confirma que o livro contém **nomes de corretoras e empresas**, mas as ocorrências nominalmente identificáveis encontradas até agora pertencem a contextos posteriores, exemplos de mercado ou episódios diferentes da narrativa de ingresso de Bazin.
+
+Portanto:
+
+> **Nenhum dos nomes localizados pode ser promovido, neste momento, à condição de “primeira corretora de Décio Bazin”.**
+
+A pesquisa deve continuar pelo eixo documental externo **Rua XV de Novembro + corretoras paulistas + início dos anos 1960**, incluindo anuários, jornais, listas de operadores e registros históricos da Bolsa.
+
+### Estado atualizado da pergunta
+
+- **Data mais antiga explicitamente declarada por Bazin para sua atuação/militância na Bolsa:** 1960.
+- **Período explicitamente descrito para trabalho em corretora:** começo da década de 1960.
+- **Localização indicada:** Rua XV de Novembro, São Paulo.
+- **Função descrita:** operador de pregão, executando ordens recebidas na corretora.
+- **Primeira corretora identificada nominalmente:** **NÃO**.
+- **Hipótese de contratação em 1960:** **NÃO COMPROVADA**.
+- **Próximo gate:** documentação contemporânea ou institucional capaz de ligar Bazin a uma corretora específica.
+
+**Estado:** INVESTIGAÇÃO CONTINUA — primeira corretora permanece pendente.
