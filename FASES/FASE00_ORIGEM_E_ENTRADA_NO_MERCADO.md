@@ -1,4 +1,16 @@
-# FASE 00 — ORIGEM E ENTRADA DE DÉCIO BAZIN NO MERCADO FINANCEIRO
+---
+projeto: DECIO-BAZIN
+repositorio: carlos-andrade/DECIO-BAZIN
+tipo_documento: FASE
+fase: FASE 00
+titulo: ORIGEM E ENTRADA DE DÉCIO BAZIN NO MERCADO FINANCEIRO
+status: EM INVESTIGAÇÃO
+versao: 1.0
+data_criacao: 2026-10-02
+data_atualizacao: 2026-10-02
+origem: PROMPT
+autoridade: PROMPTS → CARTAS → LAYOUT ÚNICO → CÓDIGO
+---
 
 ## Objetivo
 Estabelecer, por meio de evidências documentais, o ponto mais antigo verificável da entrada de Décio Bazin no mercado financeiro.
