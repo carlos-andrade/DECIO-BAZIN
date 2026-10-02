@@ -1,0 +1,5 @@
+# Proteção de governança
+# Alterações em governança exigem revisão do proprietário do repositório.
+* @Carlos-Andrade
+/docs/00-GOVERNANCA/ @Carlos-Andrade
+/.github/workflows/verificar-regra-normativa.yml @Carlos-Andrade
