@@ -1,0 +1,36 @@
+name: Verificar Regra Normativa — PROMPTS → CARTAS → LAYOUT → CÓDIGO
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verificar-regra:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Verificar SHA-256 da regra normativa
+        shell: bash
+        run: |
+          set -euo pipefail
+          FILE="docs/00-GOVERNANCA/REGRA-PROMPTS-CARTAS-LAYOUT-CODIGO.md"
+          EXPECTED="db371eb2bec44c1787851ca925e8507cc553b3fc0914f49cbb2a412e8ca74754"
+          ACTUAL="$(sha256sum "$FILE" | awk '{print $1}')"
+
+          echo "Esperado: $EXPECTED"
+          echo "Atual:    $ACTUAL"
+
+          if [ "$ACTUAL" != "$EXPECTED" ]; then
+            echo "::error::VIOLAÇÃO: a regra normativa foi alterada."
+            exit 1
+          fi
+
+          echo "Regra normativa íntegra."
