@@ -4,8 +4,8 @@ repositorio: carlos-andrade/DECIO-BAZIN
 tipo_documento: EVIDÊNCIA
 fase: FASE 00
 titulo: EVIDÊNCIAS DOCUMENTAIS PRELIMINARES
-status: EM INVESTIGAÇÃO
-versao: 2.0
+status: VALIDADO
+versao: 3.0
 data_criacao: 2026-10-02
 data_atualizacao: 2026-10-02
 origem: EVIDÊNCIA
@@ -734,3 +734,52 @@ A investigação permanece concentrada em fontes primárias ou institucionais:
 
 **Regra:** nenhum nome de corretora será preenchido por inferência. A primeira corretora somente será promovida a fato quando existir vínculo documental rastreável.
 
+
+
+## 4U. Fechamento documental da FASE 00 — início no mercado
+
+Após as rodadas de investigação realizadas nesta FASE 00, foi adotado o seguinte **critério de encerramento**:
+
+- a identidade da primeira corretora **não é necessária para responder à pergunta central desta pesquisa**;
+- o próprio Décio Bazin não nomeia a corretora em sua narrativa autobiográfica consultada;
+- a pesquisa não localizou documentação contemporânea confiável que permita preencher esse nome sem inferência;
+- a declaração de que Bazin **“militava na Bolsa desde 1960”** deve permanecer exatamente como declaração autobiográfica, sem ser convertida em data de contratação;
+- a descrição de trabalho em corretora no começo da década de 1960 deve permanecer como evidência autobiográfica da atuação profissional no mercado;
+- **“militava na Bolsa” não será interpretado automaticamente como vínculo empregatício**. A palavra descreve atuação/participação no ambiente da Bolsa; não autoriza concluir, sem documento específico, que Bazin mantinha contrato de trabalho com uma corretora;
+- a ausência do nome da corretora na autobiografia é registrada como **ausência documental**, e não como prova de que a corretora tenha sido deliberadamente ocultada ou de que tenha sido irrelevante para Bazin;
+- não será atribuída intenção ao autor para explicar essa ausência;
+- a pesquisa considera suficientemente estabelecido, para os objetivos da FASE 00, o que importa sobre o início de Bazin no mercado: **período, ambiente, função descrita pelo próprio autor, natureza das atividades e evolução até 1971**, com as limitações explicitamente registradas.
+
+### Conclusão factual da FASE 00
+
+> **A evidência autobiográfica localizada estabelece que Décio Bazin já atuava no mercado financeiro no começo da década de 1960, trabalhando em uma corretora na Rua XV de Novembro e levando/executando ordens de compra e venda no pregão da Bolsa. O próprio Bazin declara que “militava na Bolsa desde 1960”. A narrativa também registra sua participação como operador nos booms de 1966, 1969 e 1971 e informa que o crash de 1971 encerrou sua experiência como operador. A identidade da corretora e eventual vínculo empregatício específico não foram documentalmente estabelecidos e não serão inferidos.**
+
+### Limite interpretativo
+
+Esta conclusão **não afirma**:
+- que 1960 seja necessariamente o ano de contratação por uma corretora;
+- que “militava na Bolsa” signifique vínculo empregatício;
+- que a corretora tenha sido deliberadamente omitida;
+- que a ausência do nome tenha sido causada por irrelevância, escolha pessoal ou qualquer outra motivação não documentada.
+
+Esta conclusão **afirma somente o que a documentação permite afirmar** e encerra a busca da identidade da corretora como requisito da FASE 00.
+
+### Gate de encerramento
+
+| Item | Estado final |
+|---|---|
+| Primeira evidência autobiográfica de atuação no mercado | **ESTABELECIDA — começo dos anos 1960** |
+| Declaração “militava na Bolsa desde 1960” | **ESTABELECIDA — declaração autobiográfica** |
+| Trabalho em corretora | **ESTABELECIDO — narrativa autobiográfica** |
+| Rua XV de Novembro | **ESTABELECIDA — localização autobiográfica** |
+| Operação de ordens no pregão | **ESTABELECIDA — narrativa autobiográfica** |
+| Atuação nos booms de 1966, 1969 e 1971 | **ESTABELECIDA — narrativa autobiográfica** |
+| Encerramento da experiência de operador em 1971 | **ESTABELECIDO — narrativa autobiográfica** |
+| Nome da primeira corretora | **NÃO IDENTIFICADO — não necessário para o fechamento** |
+| Vínculo empregatício específico | **NÃO ESTABELECIDO — não inferir** |
+| Motivo para a ausência do nome da corretora | **NÃO DETERMINADO — não especular** |
+| FASE 00 | **VALIDADA / ENCERRADA** |
+
+**Cadeia de autoridade:** PROMPTS → CARTAS → LAYOUT ÚNICO → CÓDIGO.
+
+**Próximo passo:** transformar esta conclusão factual validada em **CARTA da FASE 00**. Nenhum código será criado a partir desta evidência diretamente.
