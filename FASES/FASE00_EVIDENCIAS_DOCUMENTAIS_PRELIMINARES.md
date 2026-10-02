@@ -5,7 +5,7 @@ tipo_documento: EVIDÊNCIA
 fase: FASE 00
 titulo: EVIDÊNCIAS DOCUMENTAIS PRELIMINARES
 status: EM INVESTIGAÇÃO
-versao: 1.3
+versao: 1.4
 data_criacao: 2026-10-02
 data_atualizacao: 2026-10-02
 origem: EVIDÊNCIA
@@ -237,4 +237,68 @@ A próxima busca deverá priorizar **fontes primárias ou contemporâneas dos an
 6. registros biográficos institucionais que indiquem o primeiro empregador.
 
 O objetivo continua sendo obter um documento que permita afirmar, com rastreabilidade, **quem era a corretora, quando ocorreu o vínculo e em que função Bazin atuava**.
+
+
+
+## 4E. Nova pista — atividade bancária anterior ao mercado de capitais
+
+A pesquisa encontrou uma fonte secundária que afirma que Bazin **começou a trabalhar como bancário no Banco do Brasil** antes de ingressar no mercado de capitais como operador em corretoras.
+
+Fonte:
+- Guia Suno Dividendos, reprodução indexada: https://www.passeidireto.com/arquivo/80517034/guia-suno-dividendos-aprenda-a-selecionar-acoes-que-geram-renda
+
+### Tratamento da evidência
+
+Esta informação é **pista secundária**, não evidência primária validada. Ela é relevante porque pode fornecer uma ponte documental para a etapa imediatamente anterior à corretora, mas ainda não permite afirmar:
+
+- data de ingresso no Banco do Brasil;
+- cargo ou agência;
+- duração do vínculo;
+- data de saída;
+- relação causal entre o emprego bancário e a posterior atividade de operador.
+
+Portanto, o Banco do Brasil foi adicionado como **linha de investigação**, e não como fato consolidado da biografia.
+
+## 4F. Limite cronológico adicional — encerramento da fase de operador
+
+A reprodução da obra contém outra informação autobiográfica relevante: Bazin afirma que o **crash de 1971 representou o fim de sua experiência como operador da Bolsa**.
+
+Essa informação permite estabelecer, dentro da narrativa autobiográfica, um intervalo de atividade de operador que começa no início da década de 1960 e termina em 1971.
+
+Ela não deve ser convertida em datas mais precisas sem documentação adicional.
+
+### Formulação controlada
+
+> A narrativa autobiográfica de Bazin situa sua atividade como operador de pregão no início da década de 1960 e afirma que o crash de 1971 encerrou essa experiência.
+
+Fonte de reprodução:
+- *Faça Fortuna com Ações*, capítulo I: https://www.passeidireto.com/arquivo/85940525/faca-fortuna-com-acoes-decio-bazin
+
+## 4G. Matriz cronológica provisória atualizada
+
+| Etapa | Período indicado | Evidência | Estado |
+|---|---|---|---|
+| Formação em Contabilidade | anos 1950 | fonte acadêmica secundária | corroborado secundariamente |
+| Possível atividade bancária no Banco do Brasil | anterior ao ingresso em corretora | fonte secundária | **pista, não validado** |
+| Trabalho em corretora / operador de pregão | começo dos anos 1960 | narrativa autobiográfica | **forte, mas reprodução por terceiro** |
+| Participação em booms | 1966, 1969 e 1971 | narrativa autobiográfica | corroborado pela própria obra |
+| Encerramento da experiência como operador | 1971 | narrativa autobiográfica | corroborado pela própria obra |
+| Atuação como analista financeiro | 1988 | Diário da Assembleia Nacional Constituinte | **registro institucional contemporâneo** |
+| Publicação de *Faça Fortuna com Ações* | outubro de 1992 | fonte acadêmica/bibliográfica | corroborado secundariamente |
+
+## 4H. Próxima investigação obrigatória
+
+A trilha documental passa agora a ter **duas frentes independentes**:
+
+1. **Banco do Brasil → corretora**
+   - procurar registros biográficos e institucionais sobre o vínculo bancário;
+   - determinar se a informação é reproduzida por fontes independentes;
+   - procurar período e função.
+
+2. **Corretora → Bolsa**
+   - procurar nome da corretora;
+   - procurar anuários, listas de operadores, publicações da Bolsa e imprensa financeira;
+   - testar especificamente a hipótese de uma corretora localizada na Rua XV de Novembro.
+
+Nenhuma dessas pistas será promovida a fato consolidado sem evidência adequada.
 
