@@ -366,3 +366,39 @@ A busca permanece aberta para:
 2. verificar se o vínculo profissional já existia em 1960;
 3. localizar documentação contemporânea que confirme a declaração autobiográfica;
 4. determinar se houve atividade bancária anterior e, em caso afirmativo, seu período.
+
+
+## 4K. Cruzamento textual adicional — período 1960–1971 e retorno em 1979
+
+A pesquisa textual adicional encontrou, na mesma obra, uma passagem biográfica/editorial que afirma que Bazin viveu **um período de 1960 a 1971** em que aplicava em ações para especular e outro período, iniciado **no final de 1979**, em que passou a agir de maneira racional. A passagem também registra que, após o crash de 1971, Bazin voltou aos negócios com ações em 1979.
+
+Fonte de reprodução pesquisável:
+- Passei Direto — reprodução de *Faça Fortuna com Ações*: https://www.passeidireto.com/arquivo/73261611/faca-fortuna-com-acoes
+
+### Valor documental
+
+Esta passagem é útil como **corroboração interna da cronologia 1960–1971**, mas deve ser classificada separadamente da narrativa do capítulo “Eu, operador sem malícias”:
+
+- **1960–1971:** período explicitamente associado pela obra à atividade especulativa de Bazin em ações;
+- **começo da década de 1960:** período em que a narrativa autobiográfica descreve seu trabalho como operador em corretora;
+- **1971:** crash associado ao fim de sua experiência como operador;
+- **final de 1979:** retorno aos negócios com ações sob uma estratégia diferente.
+
+A passagem **não identifica a primeira corretora** e não constitui documentação contemporânea independente dos anos 1960. Portanto, não altera a exigência de localizar registros externos.
+
+### Controle de interpretação
+
+Não será utilizada a formulação “Bazin foi contratado por uma corretora em 1960” com base apenas nesta evidência. O que a fonte permite registrar é que **1960 aparece na própria obra como início do período de atuação/especulação em ações**, enquanto a narrativa do capítulo I situa o trabalho em corretora no começo da década de 1960.
+
+## 4L. Nova lacuna de pesquisa — busca nominal da corretora
+
+A busca dirigida permanece sem identificação nominal da primeira corretora. A evidência textual atualmente disponível descreve apenas:
+
+- localização na Rua XV de Novembro;
+- trabalho de Bazin na corretora;
+- recebimento de ordens de compra e venda;
+- execução das ordens no pregão da Bolsa.
+
+A próxima busca deve cruzar **Rua XV de Novembro + corretoras + Bolsa de Valores de São Paulo + início dos anos 1960**, priorizando anuários, jornais e publicações institucionais da época.
+
+**Estado:** PENDENTE.
