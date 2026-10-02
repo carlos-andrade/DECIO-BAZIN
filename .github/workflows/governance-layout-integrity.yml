@@ -1,0 +1,41 @@
+name: Governance — Layout Integrity
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  governance-layout-integrity:
+    name: governance-layout-integrity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Verify normative rule integrity
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          FILE="docs/00-GOVERNANCA/REGRA-PROMPTS-CARTAS-LAYOUT-CODIGO.md"
+          EXPECTED="db371eb2bec44c1787851ca925e8507cc553b3fc0914f49cbb2a412e8ca74754"
+
+          test -f "$FILE"
+
+          ACTUAL="$(sha256sum "$FILE" | awk '{print $1}')"
+
+          echo "Expected SHA-256: $EXPECTED"
+          echo "Actual SHA-256:   $ACTUAL"
+
+          if [ "$ACTUAL" != "$EXPECTED" ]; then
+            echo "::error::Normative governance rule was modified."
+            exit 1
+          fi
+
+          echo "Governance layout chain is intact: PROMPTS -> CARTAS -> LAYOUT -> CÓDIGO."
