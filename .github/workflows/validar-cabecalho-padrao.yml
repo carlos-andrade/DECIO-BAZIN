@@ -1,0 +1,75 @@
+name: Validar Cabeçalho Canónico YAML
+
+on:
+  push:
+    branches: [main, "research/**"]
+    paths:
+      - "METODO DECIO BAZIN/**/*.md"
+      - "docs/00-GOVERNANCA/CABECALHO-PADRAO-DOCUMENTOS.md"
+      - ".github/workflows/validar-cabecalho-padrao.yml"
+  pull_request:
+    branches: ["main", "investigacao/**"]
+    paths:
+      - "METODO DECIO BAZIN/**/*.md"
+      - "docs/00-GOVERNANCA/CABECALHO-PADRAO-DOCUMENTOS.md"
+      - ".github/workflows/validar-cabecalho-padrao.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validar-cabecalho:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validar front matter YAML canónico
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          import sys
+
+          root = Path("METODO DECIO BAZIN")
+          required = {
+              "projeto": r"^projeto:\s*DECIO-BAZIN\s*$",
+              "repositorio": r"^repositorio:\s*carlos-andrade/DECIO-BAZIN\s*$",
+              "tipo_documento": r"^tipo_documento:\s*\S.+$",
+              "fase": r"^fase:\s*FASE\s+\d{2}\b.*$",
+              "titulo": r"^titulo:\s*\S.+$",
+              "status": r"^status:\s*(RASCUNHO|EM INVESTIGAÇÃO|EM VALIDAÇÃO|VALIDADO|APROVADO|OBSOLETO)\s*$",
+              "versao": r"^versao:\s*\d+\.\d+\s*$",
+              "data_criacao": r"^data_criacao:\s*\d{4}-\d{2}-\d{2}\s*$",
+              "data_atualizacao": r"^data_atualizacao:\s*\d{4}-\d{2}-\d{2}\s*$",
+              "origem": r"^origem:\s*\S.+$",
+              "autoridade": r"^autoridade:\s*PROMPTS → CARTAS → LAYOUT ÚNICO → CÓDIGO\s*$",
+          }
+          files = sorted(root.rglob("*.md"))
+          if not files:
+              print("ERRO: nenhum Markdown encontrado no dossiê.")
+              sys.exit(1)
+
+          errors = []
+          for path in files:
+              text = path.read_text(encoding="utf-8")
+              if not text.startswith("---\n"):
+                  errors.append(f"{path}: front matter YAML não inicia o documento")
+                  continue
+              closing = text.find("\n---\n", 4)
+              if closing < 0:
+                  errors.append(f"{path}: delimitador de fecho do front matter ausente")
+                  continue
+              front = text[4:closing]
+              for field, pattern in required.items():
+                  if not re.search(pattern, front, re.MULTILINE):
+                      errors.append(f"{path}: campo YAML ausente/inválido: {field}")
+
+          if errors:
+              print("\n".join(errors))
+              sys.exit(1)
+          print(f"PASS: cabeçalho YAML canónico válido em {len(files)} documento(s).")
+          PY
