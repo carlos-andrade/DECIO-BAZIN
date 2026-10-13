@@ -3,7 +3,7 @@ projeto: DECIO-BAZIN
 repositorio: carlos-andrade/DECIO-BAZIN
 tipo_documento: OUTRO
 fase: FASE 01
-titulo: ÍNDICE DO DOSSIÊ — MÉTODO DÉCIO BAZIN
+titulo: DOSSIÊ — MÉTODO DÉCIO BAZIN
 status: EM INVESTIGAÇÃO
 versao: 1.0
 data_criacao: 2026-10-13
