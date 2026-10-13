@@ -1,16 +1,19 @@
+<!-- CABECALHO-PADRAO-DECIO-BAZIN: MDB-HDR-001 v1.0.0 | Ver norma em docs/00-GOVERNANCA/CABECALHO-PADRAO-DOCUMENTAL.md -->
+
 # CARTA 001 — NÚCLEO DO MÉTODO DÉCIO BAZIN
 
-> **Cabeçalho documental obrigatório**
-> - Projeto: DECIO-BAZIN
-> - Documento: carta de investigação metodológica
-> - Identificador: MDB-CARTA-001
-> - Versão: 1.0.0
-> - Estado: PRELIMINAR — REQUER CONFERÊNCIA COM A OBRA
-> - Data: 2026-10-13
-> - Prompt de origem: `MDB-PROMPT-001`
-> - Evidências iniciais: referências listadas ao final
-> - Destino: futura consolidação no LAYOUT ÚNICO
-> - Código autorizado: NÃO
+> **Cabeçalho padrão documental — DECIO-BAZIN**
+> - **ID:** MDB-CARTA-001
+> - **Tipo:** CARTA de investigação
+> - **Versão:** 1.0.0
+> - **Estado:** EM_REVISAO
+> - **Data de criação:** 2026-10-13
+> - **Data de revisão:** 2026-10-13
+> - **Responsável (owner):** Projeto DECIO-BAZIN
+> - **Aprovador:** Pendente de aprovação formal
+> - **Origem/rastreabilidade:** MDB-PROMPT-001 e referências iniciais identificadas no final da carta
+> - **Escopo:** Reconstrução preliminar do núcleo do método, ainda pendente de confronto sistemático com a obra original.
+> - **Norma superior:** [Cadeia normativa PROMPTS → CARTAS → LAYOUT ÚNICO → CÓDIGO](../../../docs/00-GOVERNANCA/REGRA-PROMPTS-CARTAS-LAYOUT-CODIGO.md)
 
 ## 1. Tese econômica central
 
