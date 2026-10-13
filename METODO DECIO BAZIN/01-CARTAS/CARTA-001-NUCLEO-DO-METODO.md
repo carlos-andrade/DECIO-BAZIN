@@ -1,19 +1,18 @@
-<!-- CABECALHO-PADRAO-DECIO-BAZIN: MDB-HDR-001 v1.0.0 | Ver norma em docs/00-GOVERNANCA/CABECALHO-PADRAO-DOCUMENTAL.md -->
+---
+projeto: DECIO-BAZIN
+repositorio: carlos-andrade/DECIO-BAZIN
+tipo_documento: CARTA
+fase: FASE 01
+titulo: CARTA 001 — NÚCLEO DO MÉTODO DÉCIO BAZIN
+status: EM VALIDAÇÃO
+versao: 1.0
+data_criacao: 2026-10-13
+data_atualizacao: 2026-10-13
+origem: PROMPT
+autoridade: PROMPTS → CARTAS → LAYOUT ÚNICO → CÓDIGO
+---
 
 # CARTA 001 — NÚCLEO DO MÉTODO DÉCIO BAZIN
-
-> **Cabeçalho padrão documental — DECIO-BAZIN**
-> - **ID:** MDB-CARTA-001
-> - **Tipo:** CARTA de investigação
-> - **Versão:** 1.0.0
-> - **Estado:** EM_REVISAO
-> - **Data de criação:** 2026-10-13
-> - **Data de revisão:** 2026-10-13
-> - **Responsável (owner):** Projeto DECIO-BAZIN
-> - **Aprovador:** Pendente de aprovação formal
-> - **Origem/rastreabilidade:** MDB-PROMPT-001 e referências iniciais identificadas no final da carta
-> - **Escopo:** Reconstrução preliminar do núcleo do método, ainda pendente de confronto sistemático com a obra original.
-> - **Norma superior:** [Cadeia normativa PROMPTS → CARTAS → LAYOUT ÚNICO → CÓDIGO](../../../docs/00-GOVERNANCA/REGRA-PROMPTS-CARTAS-LAYOUT-CODIGO.md)
 
 ## 1. Tese econômica central
 
@@ -171,3 +170,4 @@ Nenhum limiar, peso ou decisão automática será adotado antes de ser documenta
 
 ---
 **Conclusão provisória:** o núcleo rastreável é a seleção de ações pelo rendimento em dinheiro em relação ao preço, combinado com exclusão de empresas de balanço insatisfatório e atenção a informações negativas. A regra de 6% deve ser lida historicamente. A pesquisa ainda precisa confirmar na obra original a redação, as exceções e os critérios exatos de manutenção e saída.
+
