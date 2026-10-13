@@ -1,19 +1,18 @@
-<!-- CABECALHO-PADRAO-DECIO-BAZIN: MDB-HDR-001 v1.0.0 | Ver norma em docs/00-GOVERNANCA/CABECALHO-PADRAO-DOCUMENTAL.md -->
+---
+projeto: DECIO-BAZIN
+repositorio: carlos-andrade/DECIO-BAZIN
+tipo_documento: OUTRO
+fase: FASE 01
+titulo: ÍNDICE DO DOSSIÊ — MÉTODO DÉCIO BAZIN
+status: EM INVESTIGAÇÃO
+versao: 1.0
+data_criacao: 2026-10-13
+data_atualizacao: 2026-10-13
+origem: PROMPT
+autoridade: PROMPTS → CARTAS → LAYOUT ÚNICO → CÓDIGO
+---
 
 # DOSSIÊ — MÉTODO DÉCIO BAZIN
-
-> **Cabeçalho padrão documental — DECIO-BAZIN**
-> - **ID:** MDB-README-001
-> - **Tipo:** README — índice do dossiê
-> - **Versão:** 1.0.0
-> - **Estado:** EM_REVISAO
-> - **Data de criação:** 2026-10-13
-> - **Data de revisão:** 2026-10-13
-> - **Responsável (owner):** Projeto DECIO-BAZIN
-> - **Aprovador:** Pendente de aprovação formal
-> - **Origem/rastreabilidade:** Solicitação do utilizador para aprofundar o método de Décio Bazin
-> - **Escopo:** Estrutura, estado, evidências, governança documental e roadmap do dossiê.
-> - **Norma superior:** [Cadeia normativa PROMPTS → CARTAS → LAYOUT ÚNICO → CÓDIGO](../../docs/00-GOVERNANCA/REGRA-PROMPTS-CARTAS-LAYOUT-CODIGO.md)
 
 ## Objetivo
 
@@ -62,3 +61,4 @@ A taxa de 6% é um parâmetro histórico, não uma taxa universal válida automa
 ## Limites
 
 O dossiê é pesquisa histórica, educacional e quantitativa. Não constitui recomendação individual de compra ou venda. Não declarar resultados de backtest sem dados, protocolo reproduzível e auditoria de vieses.
+
