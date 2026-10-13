@@ -44,6 +44,7 @@ A investigação preliminar identifica o **cash-yield** como núcleo conhecido d
 Foram registadas duas evidências de trabalho:
 - `03-EVIDENCIAS/EVIDENCIA-001-CASH-YIELD-Y1-Y2-PERMANENCIA.md`: matriz inicial de afirmações, fontes e lacunas sobre Y1/Y2 e regra de saída.
 - `03-EVIDENCIAS/EVIDENCIA-002-DETALHAMENTO-Y1-Y2.md`: detalhes localizados sobre a função de Y1 e Y2, frequência dos dividendos e conversão histórica para dólares.
+- `03-EVIDENCIAS/EVIDENCIA-003-CONCILIACAO-BIBLIOGRAFICA-EDICAO.md`: regista divergências públicas de ISBN e paginação entre registos da edição impressa e digital; a edição de referência continua por confirmar.
 
 **Conclusão provisória:** Y1 é descrito nos excertos localizados como métrica de seleção inicial; Y2, como métrica distinta de acompanhamento da remuneração. A edição, paginação e convenções completas de cálculo ainda precisam de validação numa cópia legalmente obtida. A regra de venda após dois anos consecutivos abaixo de 6% não está confirmada como regra original.
 
@@ -52,14 +53,14 @@ A taxa histórica de 6% não é uma taxa universal válida automaticamente no me
 ## Roadmap atualizado
 
 1. **Fase 00 — Investigação da origem e entrada no mercado:** documentação histórica preliminar concluída; integração e revisão seguem a governança do repositório.
-2. **Fase 01 — CARTAS e evidências do método:** em andamento. Evidências E-001 e E-002 criadas; validar Y1, Y2, frequência de revisão e regra de saída com edição autorizada.
+2. **Fase 01 — CARTAS e evidências do método:** em andamento. Evidências E-001 e E-002 criadas; validar Y1, Y2, frequência de revisão e regra de saída com edição autorizada; conciliar antes os metadados bibliográficos (ISBN 9788585454166 versus 9788585454753 e diferenças de paginação).
 3. **Fase 02 — Consolidação:** bloqueada até resolver lacunas documentais e contradições.
 4. **Fase 03 — LAYOUT ÚNICO:** não iniciar nova consolidação normativa antes da validação das CARTAS.
 5. **Fase 04 — Implementação/testes:** bloqueada até aprovação do LAYOUT ÚNICO; nenhum código deriva diretamente de conversa, hipótese ou CARTA isolada.
 
 ## Próximas ações
 
-1. Obter acesso legítimo à edição de referência e registar ISBN, edição, ano e formato.
+1. Conciliar os metadados públicos e obter acesso legítimo à edição de referência; registar o ISBN efetivamente presente no exemplar, edição, ano e formato.
 2. Anotar as páginas exatas de Y1, Y2, preço de entrada, acompanhamento e saída.
 3. Confrontar a alegação dos dois anos consecutivos com a redação e o contexto da obra.
 4. Atualizar a CARTA existente apenas após validação das evidências.
