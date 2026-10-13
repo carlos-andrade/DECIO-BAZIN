@@ -1,0 +1,68 @@
+name: Validar Cabeçalho Padrão Documental
+
+on:
+  push:
+    branches: [main, "research/**"]
+    paths:
+      - "METODO DECIO BAZIN/**/*.md"
+      - "docs/00-GOVERNANCA/CABECALHO-PADRAO-DOCUMENTAL.md"
+      - ".github/workflows/validar-cabecalho-padrao.yml"
+  pull_request:
+    branches: [main]
+    paths:
+      - "METODO DECIO BAZIN/**/*.md"
+      - "docs/00-GOVERNANCA/CABECALHO-PADRAO-DOCUMENTAL.md"
+      - ".github/workflows/validar-cabecalho-padrao.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validar-cabecalho:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validar marcador e metadados dos documentos do dossiê
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          import sys
+
+          root = Path("METODO DECIO BAZIN")
+          required = {
+              "ID": r"\*\*ID:\*\*\s*\S",
+              "Tipo": r"\*\*Tipo:\*\*\s*\S",
+              "Versão": r"\*\*Versão:\*\*\s*\d+\.\d+\.\d+",
+              "Estado": r"\*\*Estado:\*\*\s*\S",
+              "Data de criação": r"\*\*Data de criação:\*\*\s*\d{4}-\d{2}-\d{2}",
+              "Data de revisão": r"\*\*Data de revisão:\*\*\s*\d{4}-\d{2}-\d{2}",
+              "Responsável (owner)": r"\*\*Responsável \(owner\):\*\*\s*\S",
+              "Aprovador": r"\*\*Aprovador:\*\*\s*\S",
+              "Origem/rastreabilidade": r"\*\*Origem/rastreabilidade:\*\*\s*\S",
+              "Escopo": r"\*\*Escopo:\*\*\s*\S",
+              "Norma superior": r"\*\*Norma superior:\*\*\s*\S",
+          }
+          marker = "<!-- CABECALHO-PADRAO-DECIO-BAZIN: MDB-HDR-001 v1.0.0 | Ver norma em docs/00-GOVERNANCA/CABECALHO-PADRAO-DOCUMENTAL.md -->"
+          files = sorted(root.rglob("*.md"))
+          if not files:
+              print("ERRO: nenhum Markdown encontrado no dossiê.")
+              sys.exit(1)
+          errors = []
+          for path in files:
+              text = path.read_text(encoding="utf-8")
+              if marker not in text:
+                  errors.append(f"{path}: marcador do cabeçalho ausente")
+              for field, pattern in required.items():
+                  if not re.search(pattern, text):
+                      errors.append(f"{path}: metadado ausente/inválido: {field}")
+          if errors:
+              print("\n".join(errors))
+              sys.exit(1)
+          print(f"PASS: cabeçalho padrão válido em {len(files)} documento(s).")
+          PY
