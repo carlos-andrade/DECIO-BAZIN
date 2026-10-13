@@ -1,17 +1,17 @@
-name: Validar Cabeçalho Padrão Documental
+name: Validar Cabeçalho Canónico YAML
 
 on:
   push:
     branches: [main, "research/**"]
     paths:
       - "METODO DECIO BAZIN/**/*.md"
-      - "docs/00-GOVERNANCA/CABECALHO-PADRAO-DOCUMENTAL.md"
+      - "docs/00-GOVERNANCA/CABECALHO-PADRAO-DOCUMENTOS.md"
       - ".github/workflows/validar-cabecalho-padrao.yml"
   pull_request:
-    branches: [main]
+    branches: ["main", "investigacao/**"]
     paths:
       - "METODO DECIO BAZIN/**/*.md"
-      - "docs/00-GOVERNANCA/CABECALHO-PADRAO-DOCUMENTAL.md"
+      - "docs/00-GOVERNANCA/CABECALHO-PADRAO-DOCUMENTOS.md"
       - ".github/workflows/validar-cabecalho-padrao.yml"
   workflow_dispatch:
 
@@ -25,7 +25,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Validar marcador e metadados dos documentos do dossiê
+      - name: Validar front matter YAML canónico
         shell: bash
         run: |
           set -euo pipefail
@@ -36,33 +36,40 @@ jobs:
 
           root = Path("METODO DECIO BAZIN")
           required = {
-              "ID": r"\*\*ID:\*\*\s*\S",
-              "Tipo": r"\*\*Tipo:\*\*\s*\S",
-              "Versão": r"\*\*Versão:\*\*\s*\d+\.\d+\.\d+",
-              "Estado": r"\*\*Estado:\*\*\s*\S",
-              "Data de criação": r"\*\*Data de criação:\*\*\s*\d{4}-\d{2}-\d{2}",
-              "Data de revisão": r"\*\*Data de revisão:\*\*\s*\d{4}-\d{2}-\d{2}",
-              "Responsável (owner)": r"\*\*Responsável \(owner\):\*\*\s*\S",
-              "Aprovador": r"\*\*Aprovador:\*\*\s*\S",
-              "Origem/rastreabilidade": r"\*\*Origem/rastreabilidade:\*\*\s*\S",
-              "Escopo": r"\*\*Escopo:\*\*\s*\S",
-              "Norma superior": r"\*\*Norma superior:\*\*\s*\S",
+              "projeto": r"^projeto:\s*DECIO-BAZIN\s*$",
+              "repositorio": r"^repositorio:\s*carlos-andrade/DECIO-BAZIN\s*$",
+              "tipo_documento": r"^tipo_documento:\s*\S.+$",
+              "fase": r"^fase:\s*FASE\s+\d{2}\b.*$",
+              "titulo": r"^titulo:\s*\S.+$",
+              "status": r"^status:\s*(RASCUNHO|EM INVESTIGAÇÃO|EM VALIDAÇÃO|VALIDADO|APROVADO|OBSOLETO)\s*$",
+              "versao": r"^versao:\s*\d+\.\d+\s*$",
+              "data_criacao": r"^data_criacao:\s*\d{4}-\d{2}-\d{2}\s*$",
+              "data_atualizacao": r"^data_atualizacao:\s*\d{4}-\d{2}-\d{2}\s*$",
+              "origem": r"^origem:\s*\S.+$",
+              "autoridade": r"^autoridade:\s*PROMPTS → CARTAS → LAYOUT ÚNICO → CÓDIGO\s*$",
           }
-          marker = "<!-- CABECALHO-PADRAO-DECIO-BAZIN: MDB-HDR-001 v1.0.0 | Ver norma em docs/00-GOVERNANCA/CABECALHO-PADRAO-DOCUMENTAL.md -->"
           files = sorted(root.rglob("*.md"))
           if not files:
               print("ERRO: nenhum Markdown encontrado no dossiê.")
               sys.exit(1)
+
           errors = []
           for path in files:
               text = path.read_text(encoding="utf-8")
-              if marker not in text:
-                  errors.append(f"{path}: marcador do cabeçalho ausente")
+              if not text.startswith("---\n"):
+                  errors.append(f"{path}: front matter YAML não inicia o documento")
+                  continue
+              closing = text.find("\n---\n", 4)
+              if closing < 0:
+                  errors.append(f"{path}: delimitador de fecho do front matter ausente")
+                  continue
+              front = text[4:closing]
               for field, pattern in required.items():
-                  if not re.search(pattern, text):
-                      errors.append(f"{path}: metadado ausente/inválido: {field}")
+                  if not re.search(pattern, front, re.MULTILINE):
+                      errors.append(f"{path}: campo YAML ausente/inválido: {field}")
+
           if errors:
               print("\n".join(errors))
               sys.exit(1)
-          print(f"PASS: cabeçalho padrão válido em {len(files)} documento(s).")
+          print(f"PASS: cabeçalho YAML canónico válido em {len(files)} documento(s).")
           PY
