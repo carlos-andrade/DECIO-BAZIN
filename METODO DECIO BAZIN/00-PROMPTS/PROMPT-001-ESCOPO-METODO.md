@@ -1,15 +1,19 @@
+<!-- CABECALHO-PADRAO-DECIO-BAZIN: MDB-HDR-001 v1.0.0 | Ver norma em docs/00-GOVERNANCA/CABECALHO-PADRAO-DOCUMENTAL.md -->
+
 # PROMPT 001 — ESCOPO DE INVESTIGAÇÃO DO MÉTODO DÉCIO BAZIN
 
-> **Cabeçalho documental obrigatório**
-> - Projeto: DECIO-BAZIN
-> - Documento: prompt de investigação
-> - Identificador: MDB-PROMPT-001
-> - Versão: 1.0.0
-> - Estado: REGISTRADO — AGUARDA EXECUÇÃO DOCUMENTAL COMPLETA
-> - Data: 2026-10-13
-> - Origem: solicitação do utilizador para desenvolver profundamente todos os métodos de Décio Bazin
-> - Destino: CARTAS de investigação
-> - Regra normativa: PROMPTS → CARTAS → LAYOUT ÚNICO → CÓDIGO
+> **Cabeçalho padrão documental — DECIO-BAZIN**
+> - **ID:** MDB-PROMPT-001
+> - **Tipo:** PROMPT
+> - **Versão:** 1.0.0
+> - **Estado:** REGISTADO
+> - **Data de criação:** 2026-10-13
+> - **Data de revisão:** 2026-10-13
+> - **Responsável (owner):** Projeto DECIO-BAZIN
+> - **Aprovador:** Pendente de aprovação formal
+> - **Origem/rastreabilidade:** Solicitação do utilizador para investigar de forma integral os métodos de Décio Bazin
+> - **Escopo:** Definir escopo e critérios de investigação; não autoriza implementação direta.
+> - **Norma superior:** [Cadeia normativa PROMPTS → CARTAS → LAYOUT ÚNICO → CÓDIGO](../../../docs/00-GOVERNANCA/REGRA-PROMPTS-CARTAS-LAYOUT-CODIGO.md)
 
 ## Missão
 
