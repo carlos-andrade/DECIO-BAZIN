@@ -1,16 +1,19 @@
+<!-- CABECALHO-PADRAO-DECIO-BAZIN: MDB-HDR-001 v1.0.0 | Ver norma em docs/00-GOVERNANCA/CABECALHO-PADRAO-DOCUMENTAL.md -->
+
 # DOSSIÊ — MÉTODO DÉCIO BAZIN
 
-> **Cabeçalho documental obrigatório**
-> - Projeto: DECIO-BAZIN
-> - Documento: índice e estado do dossiê
-> - Identificador: MDB-README-001
-> - Versão: 1.0.0
-> - Estado: EM INVESTIGAÇÃO
-> - Data: 2026-10-13
-> - Responsável metodológico: projeto DECIO-BAZIN
-> - Origem: solicitação de aprofundamento do método de Décio Bazin
-> - Regra normativa: PROMPTS → CARTAS → LAYOUT ÚNICO → CÓDIGO
-> - Código autorizado por este documento: NÃO
+> **Cabeçalho padrão documental — DECIO-BAZIN**
+> - **ID:** MDB-README-001
+> - **Tipo:** README — índice do dossiê
+> - **Versão:** 1.0.0
+> - **Estado:** EM_REVISAO
+> - **Data de criação:** 2026-10-13
+> - **Data de revisão:** 2026-10-13
+> - **Responsável (owner):** Projeto DECIO-BAZIN
+> - **Aprovador:** Pendente de aprovação formal
+> - **Origem/rastreabilidade:** Solicitação do utilizador para aprofundar o método de Décio Bazin
+> - **Escopo:** Estrutura, estado, evidências, governança documental e roadmap do dossiê.
+> - **Norma superior:** [Cadeia normativa PROMPTS → CARTAS → LAYOUT ÚNICO → CÓDIGO](../../docs/00-GOVERNANCA/REGRA-PROMPTS-CARTAS-LAYOUT-CODIGO.md)
 
 ## Objetivo
 
